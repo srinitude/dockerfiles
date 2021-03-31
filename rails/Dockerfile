@@ -1,6 +1,6 @@
 FROM ruby:2.7.2
 
-LABEL maintainer="Kiren Srinivasan <kiren@zestrepreneur.com>"
+LABEL maintainer="Kiren Srinivasan <srinitude@gmail.com>"
 
 RUN DEBIAN_FRONTEND=noninteractive \
     TZ=America/New_York \
